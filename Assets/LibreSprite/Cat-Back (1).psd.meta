@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: b9b8f2a8b6ea71949b71e47581d2a1a0
+guid: 582e7d8da4b9b9a438257c60d09f2961
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3015177024873187116
-    second: arm_0
+      213: -269796686273004263
+    second: Cat-Back (1)_0
+  - first:
+      213: -2376455714056059246
+    second: Cat-Back (1)_1
+  - first:
+      213: 3022158436237055433
+    second: Cat-Back (1)_2
+  - first:
+      213: 4967818844197012719
+    second: Cat-Back (1)_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,7 +84,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -139,12 +148,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: arm_0
+      name: Cat-Back (1)_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 19
+        x: 15
+        y: 17
+        width: 34
         height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -154,8 +163,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c274c7e678f08d920800000000000000
-      internalID: 3015177024873187116
+      spriteID: 91dbe11e75d714cf0800000000000000
+      internalID: -269796686273004263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-Back (1)_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 18
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296cd3b7e12250fd0800000000000000
+      internalID: -2376455714056059246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-Back (1)_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 17
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c51cdee51dd0f920800000000000000
+      internalID: 3022158436237055433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-Back (1)_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 18
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4cadc0bec31f440800000000000000
+      internalID: 4967818844197012719
       vertices: []
       indices: 
       edges: []
@@ -174,7 +249,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      arm_0: 3015177024873187116
+      Cat-Back (1)_0: -269796686273004263
+      Cat-Back (1)_1: -2376455714056059246
+      Cat-Back (1)_2: 3022158436237055433
+      Cat-Back (1)_3: 4967818844197012719
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
