@@ -1,0 +1,1 @@
+Get from [here](https://game-endeavor.itch.io/mystic-woods/purchase) - free or paid versions.
